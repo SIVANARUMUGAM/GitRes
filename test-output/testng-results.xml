@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Calc Suite" duration-ms="0" started-at="2016-11-29T09:51:10Z" finished-at="2016-11-29T09:51:10Z">
+    <groups>
+    </groups>
+  </suite> <!-- Calc Suite -->
+  <suite name="SuiteTwo" duration-ms="27" started-at="2016-11-29T09:51:10Z" finished-at="2016-11-29T09:51:10Z">
+    <groups>
+    </groups>
+    <test name="SuiteTwoCaseOne" duration-ms="14" started-at="2016-11-29T09:51:10Z" finished-at="2016-11-29T09:51:10Z">
+      <class name="com.satta.SuiteTwo.SuiteTwoCaseOne">
+        <test-method status="PASS" signature="checkCaseToRun()[pri:0, instance:com.satta.SuiteTwo.SuiteTwoCaseOne@97cb70]" name="checkCaseToRun" is-config="true" duration-ms="8" started-at="2016-11-29T15:21:10Z" finished-at="2016-11-29T15:21:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCaseToRun -->
+        <test-method status="PASS" signature="SuiteTwoCaseOneTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.satta.SuiteTwo.SuiteTwoCaseOne@97cb70]" name="SuiteTwoCaseOneTest" duration-ms="0" started-at="2016-11-29T15:21:10Z" data-provider="SuiteTwoCaseOneData" finished-at="2016-11-29T15:21:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[45]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuiteTwoCaseOneTest -->
+        <test-method status="PASS" signature="SuiteTwoCaseOneTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.satta.SuiteTwo.SuiteTwoCaseOne@97cb70]" name="SuiteTwoCaseOneTest" duration-ms="0" started-at="2016-11-29T15:21:10Z" data-provider="SuiteTwoCaseOneData" finished-at="2016-11-29T15:21:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[21]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuiteTwoCaseOneTest -->
+      </class> <!-- com.satta.SuiteTwo.SuiteTwoCaseOne -->
+    </test> <!-- SuiteTwoCaseOne -->
+    <test name="SuiteTwoCaseTwo" duration-ms="8" started-at="2016-11-29T09:51:10Z" finished-at="2016-11-29T09:51:10Z">
+      <class name="com.satta.SuiteTwo.SuiteTwoCaseTwo">
+        <test-method status="PASS" signature="checkCaseToRun()[pri:0, instance:com.satta.SuiteTwo.SuiteTwoCaseTwo@87b71b]" name="checkCaseToRun" is-config="true" duration-ms="6" started-at="2016-11-29T15:21:10Z" finished-at="2016-11-29T15:21:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCaseToRun -->
+        <test-method status="PASS" signature="SuiteTwoCaseTwoTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.satta.SuiteTwo.SuiteTwoCaseTwo@87b71b]" name="SuiteTwoCaseTwoTest" duration-ms="0" started-at="2016-11-29T15:21:10Z" data-provider="SuiteTwoCaseTwoData" finished-at="2016-11-29T15:21:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuiteTwoCaseTwoTest -->
+        <test-method status="PASS" signature="SuiteTwoCaseTwoTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.satta.SuiteTwo.SuiteTwoCaseTwo@87b71b]" name="SuiteTwoCaseTwoTest" duration-ms="0" started-at="2016-11-29T15:21:10Z" data-provider="SuiteTwoCaseTwoData" finished-at="2016-11-29T15:21:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuiteTwoCaseTwoTest -->
+      </class> <!-- com.satta.SuiteTwo.SuiteTwoCaseTwo -->
+    </test> <!-- SuiteTwoCaseTwo -->
+  </suite> <!-- SuiteTwo -->
+  <suite name="SuiteOne" duration-ms="735" started-at="2016-11-29T09:51:09Z" finished-at="2016-11-29T09:51:10Z">
+    <groups>
+    </groups>
+    <test name="SuiteOneCaseOne" duration-ms="561" started-at="2016-11-29T09:51:09Z" finished-at="2016-11-29T09:51:10Z">
+      <class name="com.satta.SuiteOne.SuiteOneCaseOne">
+        <test-method status="PASS" signature="checkCaseToRun()[pri:0, instance:com.satta.SuiteOne.SuiteOneCaseOne@ae264f]" name="checkCaseToRun" is-config="true" duration-ms="409" started-at="2016-11-29T15:21:09Z" finished-at="2016-11-29T15:21:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCaseToRun -->
+        <test-method status="PASS" signature="SuiteOneCaseOneTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.satta.SuiteOne.SuiteOneCaseOne@ae264f]" name="SuiteOneCaseOneTest" duration-ms="1" started-at="2016-11-29T15:21:10Z" data-provider="SuiteOneCaseOneData" finished-at="2016-11-29T15:21:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[21]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuiteOneCaseOneTest -->
+        <test-method status="PASS" signature="SuiteOneCaseOneTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.satta.SuiteOne.SuiteOneCaseOne@ae264f]" name="SuiteOneCaseOneTest" duration-ms="0" started-at="2016-11-29T15:21:10Z" data-provider="SuiteOneCaseOneData" finished-at="2016-11-29T15:21:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuiteOneCaseOneTest -->
+      </class> <!-- com.satta.SuiteOne.SuiteOneCaseOne -->
+    </test> <!-- SuiteOneCaseOne -->
+    <test name="SuiteOneCaseTwo" duration-ms="19" started-at="2016-11-29T09:51:10Z" finished-at="2016-11-29T09:51:10Z">
+      <class name="com.satta.SuiteOne.SuiteOneCaseTwo">
+        <test-method status="PASS" signature="checkCaseToRun()[pri:0, instance:com.satta.SuiteOne.SuiteOneCaseTwo@c19080]" name="checkCaseToRun" is-config="true" duration-ms="18" started-at="2016-11-29T15:21:10Z" finished-at="2016-11-29T15:21:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCaseToRun -->
+        <test-method status="PASS" signature="SuiteOneCaseTwoTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.satta.SuiteOne.SuiteOneCaseTwo@c19080]" name="SuiteOneCaseTwoTest" duration-ms="1" started-at="2016-11-29T15:21:10Z" data-provider="SuiteOneCaseTwoData" finished-at="2016-11-29T15:21:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuiteOneCaseTwoTest -->
+        <test-method status="PASS" signature="SuiteOneCaseTwoTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.satta.SuiteOne.SuiteOneCaseTwo@c19080]" name="SuiteOneCaseTwoTest" duration-ms="0" started-at="2016-11-29T15:21:10Z" data-provider="SuiteOneCaseTwoData" finished-at="2016-11-29T15:21:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[-3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuiteOneCaseTwoTest -->
+      </class> <!-- com.satta.SuiteOne.SuiteOneCaseTwo -->
+    </test> <!-- SuiteOneCaseTwo -->
+  </suite> <!-- SuiteOne -->
+</testng-results>

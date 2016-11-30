@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/sl004491/Desktop/Siva/Jarfiles/selenium-server-standalone-jar-2.53.0/selenium-server-standalone-jar-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sl004491/Desktop/Siva/Jarfiles/selenium-server-standalone-jar-2.53.0/Testng.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sl004491/Desktop/Siva/Backup/Training_Automation/WDDF/src/JarFiles/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sl004491/Desktop/Siva/Backup/Training_Automation/WDDF/src/JarFiles/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sl004491/Desktop/Siva/Backup/Training_Automation/WDDF/src/JarFiles/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sl004491/Desktop/Siva/Backup/Training_Automation/WDDF/src/JarFiles/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sl004491/Desktop/Siva/Backup/Training_Automation/WDDF/src/JarFiles/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sl004491/Desktop/Siva/Backup/Training_Automation/WDDF/src/JarFiles/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sl004491/Desktop/Siva/Backup/Training_Automation/WDDF/src/JarFiles/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sl004491/Desktop/Siva/Backup/Training_Automation/WDDF/src/JarFiles/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sl004491/Desktop/Siva/Backup/Training_Automation/WDDF/src/JarFiles/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sl004491/Desktop/Siva/Backup/Training_Automation/WDDF/src/JarFiles/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sl004491/Desktop/Siva/Backup/Training_Automation/WDDF/src/JarFiles/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sl004491/Desktop/Siva/Backup/Training_Automation/WDDF/src/JarFiles/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sl004491/Desktop/Siva/Backup/Training_Automation/WDDF/src/JarFiles/selenium-server-standalone-jar-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sl004491/Desktop/Siva/Backup/Training_Automation/WDDF/src/JarFiles/Testng.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sl004491/Desktop/Siva/Backup/Training_Automation/WDDF/src/JarFiles/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sl004491/Desktop/Siva/Jarfiles/testng-6.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sl004491/Desktop/Siva/Backup/Training_Automation/WDDF/src/JarFiles/saxon-he-9.4.0.7-sources.jar/saxon-he-9.4.0.7-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sl004491/Desktop/Siva/Backup/Training_Automation/WDDF/src/JarFiles/saxon-8.9.0.3.jar.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
